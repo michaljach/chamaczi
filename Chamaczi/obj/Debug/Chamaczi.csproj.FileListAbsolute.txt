@@ -1,0 +1,10 @@
+C:\Users\michaljach\source\repos\Chamaczi\Chamaczi\obj\Debug\Chamaczi.csprojAssemblyReference.cache
+C:\Users\michaljach\source\repos\Chamaczi\Chamaczi\obj\Debug\Chamaczi.Properties.Resources.resources
+C:\Users\michaljach\source\repos\Chamaczi\Chamaczi\obj\Debug\Chamaczi.csproj.GenerateResource.cache
+C:\Users\michaljach\source\repos\Chamaczi\Chamaczi\obj\Debug\Chamaczi.csproj.CoreCompileInputs.cache
+C:\Users\michaljach\source\repos\Chamaczi\Chamaczi\bin\Debug\Chamaczi.exe.config
+C:\Users\michaljach\source\repos\Chamaczi\Chamaczi\bin\Debug\Chamaczi.exe
+C:\Users\michaljach\source\repos\Chamaczi\Chamaczi\bin\Debug\Chamaczi.pdb
+C:\Users\michaljach\source\repos\Chamaczi\Chamaczi\obj\Debug\Chamaczi.exe
+C:\Users\michaljach\source\repos\Chamaczi\Chamaczi\obj\Debug\Chamaczi.pdb
+C:\Users\michaljach\source\repos\Chamaczi\Chamaczi\obj\Debug\Chamaczi.AppForm.resources
